@@ -1,0 +1,12 @@
+{
+  "name": "my-static-site",
+  "version": "1.0.0",
+  "description": "This will load any static html site",
+  "dependencies": {
+    "harp": "*"
+  },
+  "engines": {
+    "node": "0.10.x",
+    "npm": "1.2.x"
+  }
+}
